@@ -1,0 +1,18 @@
+¿Cuál es el punto más débil de PGP?
+Que es un sistema de clave pública que  pide a los usuarios que mantengan una clave raíz prácticamente permanente vinculada a su identidad 
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Cuando no importa  si otras personas conocen el algoritmo utilizado
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+El ciclo de vida de desarrollo del software (SDLC) es un marco que se utiliza para desarrollar, implementar y mantener el software. El marco implica la ejecución de varias tareas y actividades que se dividen en seis u ocho etapas para mejorar la calidad del software haciendo énfasis en el proceso. El propósito de esto es que sea posible medir y analizar el sistema, incorporar mejoras y, a su vez, supervisar el progreso y los costos. 
+
+Estas son las etapas del SDLC:
+
+Planificación: determinar el alcance y la finalidad del software
+Análisis de los requisitos: definir las funciones que debe ejecutar el software
+Diseño: decidir los parámetros clave, como la arquitectura, las plataformas y las interfaces de usuario
+Desarrollo: crear e implementar el software
+Documentación: producir la información para que los usuarios y las partes interesadas puedan utilizar el sistema
+Pruebas: verificar que el software cumpla con los requisitos
+Implementación: poner el software a disposición de los usuarios
+Mantenimiento: solucionar los errores y los puntos vulnerables que se descubran en el sistema
